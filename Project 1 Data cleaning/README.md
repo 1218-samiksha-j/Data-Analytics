@@ -1,17 +1,17 @@
-Project 1 – Data Cleaning & Preparation
-Tool: Microsoft Excel
+### Project 1 – Data Cleaning & Preparation
+*Tool:* Microsoft Excel
 
-Objective:
+*Objective:*  
 To identify, verify, and resolve data quality issues and prepare a raw dataset for further analysis.
 
-Key Tasks:
+*Key Tasks:*
+- Missing value handling
+- Duplicate record verification
+- Date and number format verification
+- Text consistency checks
+- Data validation
+- Changes documentation
 
-Missing value handling
-Duplicate record verification
-Date and number format verification
-Text consistency checks
-Data validation
-Changes documentation
-Files:
+*Files:*
+- project 1.xlsx – Contains Original Data, Cleaned Data, Changes Log, and Summary
 
-project 1.xlsx – Contains Original Data, Cleaned Data, Changes Log, and Summary

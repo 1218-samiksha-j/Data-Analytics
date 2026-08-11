@@ -6,6 +6,7 @@ This repository contains my Data Analytics projects completed as part of my lear
 
 ### Project 1 – Data Cleaning & Preparation
 *Tool:* Microsoft Excel
+
 *Objective:*  
 To identify, verify, and resolve data quality issues and prepare a raw dataset for further analysis.
 
